@@ -1,4 +1,4 @@
-#Epidemiology analysis for Covid19 in Japan : 
+# Epidemiology analysis for Covid19 in Japan : 
 
 Understanding the importance of 
 1) lockdown
