@@ -9,7 +9,7 @@ epidemology.ipynb shows the work of analysis of epidemiology
 Calibration.pdf shows the final result and Conclusion
 
 
-#(Update) Epidemiology analysis for Influenza in Saint Peterburg :
+# (Update) Epidemiology analysis for Influenza in Saint Peterburg :
 
 SPB_influenza_calibration.ipynb shows the influenza 
 
